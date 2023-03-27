@@ -1091,5 +1091,4 @@ summary(lm(data=d.Miami.summary, proportion~year))
 
 
 d.DFW.metro.tropical = subset(d.DFW.metro, d.DFW.metro$scientific_name == "Asclepias curassavica")
-View(d.DFW.metro.tropical)   
-View(d.DFW.metro)
+
